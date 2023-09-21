@@ -1,3 +1,4 @@
+#Whatsapp Chat Analysis using Nlp, Sentiment Analysis and Machine Learning.
 This repository contains code and resources for analyzing WhatsApp chat data using a combination of Natural Language Processing (NLP), Sentiment Analysis, and Machine Learning techniques. The project also includes a Streamlit web application for easy and interactive analysis of WhatsApp conversations.
 
 Features:-
